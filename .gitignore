@@ -1,0 +1,5 @@
+# temporary swap files
+*.swp
+
+# ignore package file
+package.json
